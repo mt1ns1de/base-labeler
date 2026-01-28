@@ -104,6 +104,3 @@ This project is open source and available under the [MIT License](https://openso
 ### Author
 
 Built with 💙 on Base by [Roman](https://www.linkedin.com/in/tilmatochek/).
-**Хочешь, чтобы я подготовил такой же README для твоего первого модуля — Sovereign Switch?** Это окончательно приведет твое портфолио к единому "Джордж-стайлу".
-
-```
